@@ -1,0 +1,9 @@
+*7z
+*csv
+
+data/*
+old-code/*
+old-data/*
+
+.ipynb-checkpoints/*
+*.log
